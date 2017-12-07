@@ -1,4 +1,4 @@
-# tec
+# 1. tec
 
 ```sh
 Exemplo simples de Restfull
@@ -12,14 +12,14 @@ Instalar as seguintes ferramentas:
     1. JDK 1.8
     3. Maven
 
-# 3. Executar
+##  3. Executar
 ```sh
 mvn clean install
 mvn spring-boot:run
 
 ```
 
-# 4. Verificando
+##  4. Verificando
 
 ```sh
 GET  http://localhost:8080/api/cadastro/nome?nome=Van Damme
