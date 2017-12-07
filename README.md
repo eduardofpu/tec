@@ -1,4 +1,6 @@
-# tec```sh
+# tec
+
+```sh
 Exemplo simples de Restfull
 
 ```
